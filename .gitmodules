@@ -1,0 +1,6 @@
+[submodule "iOS-Header"]
+	path = iOS-Header
+	url = https://github.com/miku1958/iOS-Header
+[submodule "class-dump.master"]
+	path = class-dump.master
+	url = https://github.com/miku1958/class-dump-mh
